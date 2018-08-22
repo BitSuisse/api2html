@@ -74,6 +74,7 @@ if (program.args.length === 0) {
     options.omitBody = program.omitBody || false;
     options.language_tabs = [];
     options.sample = !program.raw;
+    options.customApiKeyValue = 'VALUE';
 
     if (program.groups) {
         options.tagGroups = JSON.parse(fs.readFileSync(program.groups, 'utf8'));
