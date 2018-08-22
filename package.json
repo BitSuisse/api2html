@@ -39,6 +39,7 @@
   "dependencies": {
     "commander": "^2.16.0",
     "shins": "^2.3.1",
-    "widdershins": "^3.6.0"
+    "widdershins": "https://github.com/BitSuisse/widdershins.git#develop",
+    "js-yaml": "^3.12.0"
   }
 }
