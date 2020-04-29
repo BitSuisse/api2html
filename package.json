@@ -39,7 +39,7 @@
   "dependencies": {
     "commander": "^2.16.0",
     "shins": "^2.3.1",
-    "widdershins": "https://github.com/BitSuisse/widdershins.git#develop",
+    "widdershins": "https://github.com/BitSuisse/widdershins.git#try-without-substitution",
     "js-yaml": "^3.12.0"
   }
 }
