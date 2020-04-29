@@ -40,6 +40,6 @@
     "commander": "^2.20.0",
     "mkdirp": "^0.5.1",
     "shins": "^2.3.2-4",
-    "widdershins": "https://github.com/BitSuisse/widdershins.git#develop"
+    "widdershins": "https://github.com/BitSuisse/widdershins.git#merge-upstream"
   }
 }
